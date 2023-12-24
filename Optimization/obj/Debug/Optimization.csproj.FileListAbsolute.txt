@@ -1,0 +1,10 @@
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\Mathematics\McCaffrey\OptimizationSandbox\Optimization\bin\Debug\Optimization.dll
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\Mathematics\McCaffrey\OptimizationSandbox\Optimization\bin\Debug\Optimization.pdb
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\Mathematics\McCaffrey\OptimizationSandbox\Optimization\obj\Debug\Optimization.csprojResolveAssemblyReference.cache
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\Mathematics\McCaffrey\OptimizationSandbox\Optimization\obj\Debug\Optimization.dll
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\Mathematics\McCaffrey\OptimizationSandbox\Optimization\obj\Debug\Optimization.pdb
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\bin\Debug\Optimization.dll
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\bin\Debug\Optimization.pdb
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\obj\Debug\Optimization.dll
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\obj\Debug\Optimization.pdb
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\obj\Debug\Optimization.csprojResolveAssemblyReference.cache

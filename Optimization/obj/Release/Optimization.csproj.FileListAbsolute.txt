@@ -1,0 +1,11 @@
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\bin\Release\Optimization.dll
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\bin\Release\Optimization.pdb
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\obj\Release\Optimization.dll
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\obj\Release\Optimization.pdb
+C:\Users\crazy\Documents\Visual Studio 2015\Projects\MyProjects\OptimizationSandbox\Optimization\obj\Release\Optimization.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\11DE784A-optimization-73165dfeb011\Optimization\bin\Release\Optimization.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\11DE784A-optimization-73165dfeb011\Optimization\bin\Release\Optimization.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\11DE784A-optimization-73165dfeb011\Optimization\obj\Release\Optimization.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\11DE784A-optimization-73165dfeb011\Optimization\obj\Release\Optimization.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\11DE784A-optimization-73165dfeb011\Optimization\obj\Release\Optimization.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\11DE784A-optimization-73165dfeb011\Optimization\obj\Release\Optimization.pdb
